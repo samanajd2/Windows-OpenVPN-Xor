@@ -1,5 +1,11 @@
 # Windows-OpenVPN-Xor
-OpenVPN for windows with Xor Patch Applied
+Latest OpenVPN for windows with Xor Patch Applied
+
+lawtancool stopped to applying the tunnelblick Xor patches to the new versions of OpenVPN at this thread
+
+https://github.com/lawtancool/openvpn-windows-xor
+
+Then I applied tunnelblick Xor patches to the latest OpenVPN for windows
 
 
 Thanks Tejas blog for the instructions on how to apply the patch
