@@ -8,6 +8,7 @@ https://github.com/lawtancool/openvpn-windows-xor
 Then I applied tunnelblick Xor patches to the latest OpenVPN for windows
 
 
-Thanks Tejas blog for the instructions on how to apply the patch
+Thanks [OpenVPN-Build](https://github.com/OpenVPN/openvpn-build) for providing scripts to help build and package OpenVPN.
+Thanks [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick/tree/master/third_party/sources/openvpn) for providing updated Xor patches.
 
-https://blog.tmthecoder.dev/posts/part-2-the-patched-desktop-clients/
+
