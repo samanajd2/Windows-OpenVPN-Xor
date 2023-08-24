@@ -1,6 +1,12 @@
 # Windows-OpenVPN-Xor
 Latest OpenVPN for windows with Xor Patch Applied
 
+Note: The Latest XOR patched Release is on the link below:
+
+https://github.com/samanajd2/openvpn-build
+
+####################################################
+
 [lawtancool](https://github.com/lawtancool/openvpn-windows-xor) stopped to applying the tunnelblick Xor patches to the newer versions of OpenVPN.
 
 
